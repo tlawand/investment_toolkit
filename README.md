@@ -17,6 +17,6 @@ Phase two will also include the ability to create (or select) trading strategies
 - Provide a trading strategy, and allow trade execution through API's by defining trading $ amount and stocks
 
 ## Resources
-[SEC developer portal](https://www.sec.gov/developer)
-[Alpaca](https://alpaca.markets/)
-[TradingView](https://www.tradingview.com/)
+- [SEC developer portal](https://www.sec.gov/developer)
+- [Alpaca](https://alpaca.markets/)
+- [TradingView](https://www.tradingview.com/)
